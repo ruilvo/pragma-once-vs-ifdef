@@ -1,0 +1,3 @@
+# `#pragma once` vs `#ifndef` header guards
+
+When `#pragma once` breaks down...
